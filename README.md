@@ -16,6 +16,12 @@ After birth rates have declined rapidly in the late 20th century in major countr
   <img src="images/fertility.JPG" width="600" height="300">
 </p>
 
+At the same time, we must take a look at how infant mortality has changed in recent years. 
+
+<p align="center">
+  <img src="images/mortality.JPG" width="600" height="300">
+</p>
+
 #### Population Changes 
 
 #### Health Expenditures vs. Infant Mortality
