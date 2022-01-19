@@ -8,3 +8,10 @@ The data.zip consists of two files:
 2) HNP_StatsData.csv: Diverse statistics for each country and region
 
 ### Summary
+
+#### Fertility & Infant Mortality Rates
+After birth rates have declined rapidly in the late 20th century in major countries, they have remained unchanged for few decades. However, what may be surprising the relatively fast decrease among developing countries - South East Asia, Latin America & Africa. Could this mean that the population growth will slow down in coming era? 
+
+#### Population Changes 
+
+#### Health Expenditures vs. Infant Mortality
