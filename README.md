@@ -34,3 +34,9 @@ The trends of demographics also depend on the regions. The most alarming change,
 Within half a centry, the percentage of young population (age 0 -19) almost halved. Meanwhile, that of old population (over 65) nears 20%. The forewarning of looming high age society is not an exaggeration.
 
 #### Health Expenditures vs. Infant Mortality
+Let's see the importance of governmental health expenditures on reducing infant mortality. The negative correlation between is obvious; the more government spends on health care, the better public medical system will be. 
+
+<p align="center">
+  <img src="images/mortality_expenditure.JPG" width="600" height="300">
+</p>
+
