@@ -12,12 +12,14 @@ The data.zip consists of two files:
 #### Fertility & Infant Mortality Rates
 After birth rates have declined rapidly in the late 20th century in major countries, they have remained unchanged for few decades. However, what may be surprising the relatively fast decrease among developing countries - South East Asia, Latin America & Africa. Could this mean that the population growth will slow down in coming era? 
 
+&nbsp
 <p align="center">
   <img src="images/fertility.JPG" width="600" height="300">
 </p>
 
 At the same time, we must take a look at how infant mortality has changed in recent years. 
 
+&nbsp
 <p align="center">
   <img src="images/mortality.JPG" width="600" height="300">
 </p>
@@ -27,6 +29,7 @@ In 30 years, some continents (especially those of low development) saw more than
 #### Health Expenditures vs. Infant Mortality
 Let's see the importance of governmental health expenditures on reducing infant mortality. The negative correlation between is obvious; the more government spends on health care, the better public medical system will be. 
 
+&nbsp
 <p align="center">
   <img src="images/mortality_expenditure.JPG" width="600" height="300">
 </p>
@@ -34,6 +37,7 @@ Let's see the importance of governmental health expenditures on reducing infant 
 #### Demographics Changes 
 The trends of demographics also depend on the regions. The most alarming change, in fact, is occurring in East Asia which consist of Asian countries with advanced economies and living standards.
 
+&nbsp
 <p align="center">
   <img src="images/Population.JPG" width="600" height="300">
 </p>
@@ -43,6 +47,7 @@ Within half a centry, the percentage of young population (age 0 -19) almost halv
 #### South Korea Demographics Changes
 In fact, **South Korea has been ranked 198th out 198 countries in birth rate for recent two years in a row.** What is more concerning is that it continues to break the record low; the government has been devoting full resources and effort for the bounceback but to no avail. While the outlook becomes more dismal each year, we are yet to find even remotely effective solutions.
 
+&nbsp
 <p align="center">
   <img src="images/korea_population.JPG" width="600" height="300">
 </p>
