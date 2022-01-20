@@ -41,4 +41,8 @@ The trends of demographics also depend on the regions. The most alarming change,
 Within half a centry, the percentage of young population (age 0 -19) almost halved. Meanwhile, that of old population (over 65) nears 20%. The forewarning of looming high age society is not an exaggeration.
 
 #### South Korea Demographics Changes
+In fact, **South Korea has been ranked 198th out 198 countries in birth rate for recent two years in a row.** What is more concerning is that it continues to break the record low; the government has been devoting full resources and effort for the bounceback but to no avail. While the outlook becomes more dismal each year, we are yet to find even remotely effective solutions.
 
+<p align="center">
+  <img src="images/korea_population.JPG" width="600" height="300">
+</p>
